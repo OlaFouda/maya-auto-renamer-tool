@@ -122,17 +122,5 @@ This tool was built to reduce repetitive manual renaming and provide a more cons
 
 ## Status
 
-**Version 1.0 — Prototype**
+**Version 1.0 **
 
-The core search/replace and prefix functionality is implemented. Additional naming operations shown in the UI are planned for future development.
-
-## Future Improvements
-
-* Rename preview before applying changes
-* Collision detection and validation
-* Undo/dry-run workflow
-* Numbered renaming
-* Suffix operations
-* Configurable naming conventions
-* Rename history / change log
-* Automated tests
