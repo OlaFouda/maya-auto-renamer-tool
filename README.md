@@ -6,6 +6,9 @@ The tool provides a simple Maya UI for renaming objects using **search & replace
 
 Built as part of a VFX rigging workflow, where consistent naming is important for rig organization, automation, and production handoff.
 
+<img width="800" height="800" alt="RenamerToolDemo" src="https://github.com/user-attachments/assets/af5bdf0a-6492-4fa7-b416-81e58fc9d05b" />
+
+
 ## Features
 
 ### Search & Replace
